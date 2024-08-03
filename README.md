@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Robel</h1>
-<h3 align="center">Am Currently An Electrical And Computer Engineering Student And An ALX SWE Grad With A Specialization in Back-End Dev</h3>
+<h3 align="center">Am Currently An Electrical And Computer Engineering Student And Am a ALX SWE Grad With A Specialization in Back-End Dev</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Robaplus75&label=Profile%20views&color=0e75b6&style=flat" alt="robaplus75" /> </p>
 
