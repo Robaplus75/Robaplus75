@@ -12,7 +12,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Robaplus75&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Robaplus75&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Robaplus75&theme=dark)](https://git.io/streak-stats)
+![](https://github-readme-streak-stats.herokuapp.com?user=Robaplus75&theme=dark)](https://git.io/streak-stats)
 ---
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
