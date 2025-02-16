@@ -1,5 +1,6 @@
 # 💫 About Me
 <h3 align="center">Currently an Electrical and Computer Engineering Student and an ALX SWE Graduate with a Specialization in Back-End Development</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Robaplus75&label=Profile%20views&color=0e75b6&style=flat" alt="robaplus75" /> </p>
 
 - 📫 **How to reach me**: [robelwon75@gmail.com](mailto:robelwon75@gmail.com)  
 - 📱 **Telegram**: [@kingsforme](https://t.me/kingsforme)  
